@@ -10,6 +10,7 @@
 
 # production
 /build
+Spotify.js
 
 # misc
 .DS_Store
